@@ -1,4 +1,4 @@
-'''''""# review python chapters 3 - 8]
+# review python chapters 3 - 8]
 
 average = float(input('Enter average:')) 
 while average < 0 or average > 100:
@@ -95,7 +95,28 @@ if is_palindrome(word):
     print(f'{word} is palindrome')
 else:
     print(f'{word} is not palindrome')
-'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #list
 numbers = [10,50,20,40,30]
 print(f'umbers:{numbers}')
